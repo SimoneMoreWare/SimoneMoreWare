@@ -2,7 +2,7 @@
 
 * 👨‍🎓IT eng student from PoliTo
 * ✍#Technical_Editor |
-* 💻#Arduino |
+* 💻#Arduino and #Raspberry|
 * 📀#modderPC #HW #SW |
 * 🐧#Linux |
 * 👨‍💻#Coding |

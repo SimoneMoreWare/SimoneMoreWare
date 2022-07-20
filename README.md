@@ -14,4 +14,4 @@
 
 🍕Manfredonia and Turin, Italy | #IT
 
-![Simone's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Simone's GitHub stats](https://github-readme-stats.vercel.app/api?username=simoneMoreWare&show_icons=true&theme=radical)

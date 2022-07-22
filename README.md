@@ -15,4 +15,3 @@
 
 ![Simone's GitHub stats](https://github-readme-stats.vercel.app/api?username=simoneMoreWare&show_icons=true&theme=radical)
 
-[![Leetcode Stats](https://leetcard.candidosimone598.cool/candidosimone598)]([https://leetcode.com/candidosimone598/])

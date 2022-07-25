@@ -9,6 +9,10 @@
 * 🚦#Tech | 
 * 🍕Manfredonia and Turin, Italy | #IT
 
+# Language Programming 
+
+!(js-icon)[https://raw.githubusercontent.com/vorillaz/devicons/master/!PNG/javascript_1.png]
+
 # Stats
 
 ![](https://komarev.com/ghpvc/?username=simoneMoreWare&color=dc143c)

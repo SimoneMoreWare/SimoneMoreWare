@@ -19,7 +19,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/300/1*wZh2dMhuGVSWc8LFZg8hCw.png" alt="bottelegram" width="40" height="40"/>
-<a href="" target="_blank" rel="noreferrer"> <img src="[https://miro.medium.com/max/300/1*wZh2dMhuGVSWc8LFZg8hCw.png](https://cdn-icons-png.flaticon.com/512/5968/5968282.png)" alt="JAVA" width="40" height="40"/>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/java-coffee-cup-logo--v1.png" alt="JAVA" width="40" height="40"/>
 
 </p>
   

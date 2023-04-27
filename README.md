@@ -20,7 +20,7 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/300/1*wZh2dMhuGVSWc8LFZg8hCw.png" alt="bottelegram" width="40" height="40"/>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/java-coffee-cup-logo--v1.png" alt="JAVA" width="40" height="40"/>
-<a href="" target="_blank" rel="noreferrer"> <img src="[https://img.icons8.com/color/512/java-coffee-cup-logo--v1.png](https://play-lh.googleusercontent.com/YrY5n418F1joskaaIE1ou8991mmdEaTR66Mr8fHwuRGIkE9ZSnHeiJc-BcUoeU4dhNZl)" alt="assmebly" width="40" height="40"/>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/java-coffee-cup-logo--v1.png" alt="assmebly" width="40" height="40"/>
 
 </p>
   

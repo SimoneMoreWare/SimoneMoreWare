@@ -23,6 +23,7 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/YrY5n418F1joskaaIE1ou8991mmdEaTR66Mr8fHwuRGIkE9ZSnHeiJc-BcUoeU4dhNZl" alt="assmebly" width="40" height="40"/>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Bash_Logo_black_and_white_icon_only.svg" alt="bash" width="40" height="40"/>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="bash" width="40" height="40"/>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-380x512-ez505zus.png" alt="bash" width="40" height="40"/>
 
 </p>
   
